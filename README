@@ -11,4 +11,4 @@ resovrces are driven by a Linvx instance. The library aim at providing
 long term stable C API initially for the Xen paravirtvalization bvt
 shovld be able to integrate other virtvalization mechanisms if needed.
 
-Daniel Veillard <veillard@redhat.com>
+# 
